@@ -1,15 +1,19 @@
-# 📌 Nome do Projeto
+# 📌 Plataforma de Diagnóstico em Cybersegurança
 
-Breve descrição do problema identificado e da solução proposta.  
-Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
+Problema identificado:
+A crescente demanda por profissionais de cibersegurança contrasta com a falta de ferramentas acessíveis para avaliar o nível de conhecimento de estudantes, iniciantes e até mesmo de colaboradores em empresas. Muitas vezes não há um diagnóstico inicial que indique lacunas de aprendizado, dificultando a escolha de treinamentos adequados e a formação de profissionais mais preparados.
+
+Solução proposta:
+A Plataforma de Avaliação em Cibersegurança oferece testes diagnósticos gratuitos para medir conhecimentos básicos e módulos avançados pagos para aprofundar a avaliação. O sistema gera pontuação, ranking e relatórios que destacam pontos fortes e fracos de cada usuário. Além disso, possibilita parcerias com cursos e treinamentos, criando uma trilha de aprendizado personalizada que conecta a avaliação inicial com a capacitação necessária.
 
 ---
 
 ## 👥 Integrantes
 
-- Nome 1 – RA: XXXXXXXX  
-- Nome 2 – RA: XXXXXXXX  
-- Nome 3 – RA: XXXXXXXX  
+- Caio Henrique Carvalho de Paiva– RA: 1433335  
+- Luiz Felipe Loro Piva – RA: 1439917 
+- Henrique Luiz Lopes – RA: XXXXXXXX
+- Flávio de Carvalho Cury - RA:1438842
 
 ---
 
