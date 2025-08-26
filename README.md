@@ -10,26 +10,31 @@ A Plataforma de Avaliação em Cibersegurança oferece testes diagnósticos grat
 
 ## 👥 Integrantes
 
-- Caio Henrique Carvalho de Paiva– RA: 1433335  
+- Caio Henrique Carvalho de Paiva – RA: 1433335  
 - Luiz Felipe Loro Piva – RA: 1439917 
 - Henrique Luiz Lopes – RA: 1439763
-- Flávio de Carvalho Cury - RA:1438842
+- Flávio de Carvalho Cury - RA: 1438842
 
 ---
 
 ## 🧭 Etapas do Projeto
 
 ### 1️⃣ Definição do Problema e da Solução
-- **Problema identificado:**  
-- **Público-alvo:**  
-- **Impacto esperado:**  
-- **Solução proposta:**  
+- **Problema identificado:** Inexistência de uma plataforma de diagnóstico em cibersegurança brasileira funcional,
+limitando as opções à plataformas estrangeiras com acesso dificultado.
+- **Público-alvo:** -Estudantes.
+                    -Profissionais. 
+                    -Aspirantes a entrar na área.
+                    -Entusiastas.
+- **Impacto esperado:** Conhecimentos mais concretos na área de cibersegurança.
+- **Solução proposta:** Plataforma de Diagnóstico em CiberSegurança voltada para o público Brasileiro e reconhecimento nacional.
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
-- Lean Canvas (imagem ou link)  
-- Missão:  
-- Visão:  
-- Valores:  
+
+- Lean Canvas (imagem ou link)
+- Missão: Aprimorar os conhecimentos em CiberSegurança no Brasil
+- Visão: Foco em identificar lacunas de conhecimento, Guiar os estudantes a conteúdos integros. 
+- Valores: Integridade, Qualidade, Confiabilidade, Impacto Nacional.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:  
