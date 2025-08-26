@@ -1,4 +1,4 @@
-# 📌 Plataforma de Diagnóstico em Cybersegurança
+# 📌 Plataforma de Diagnóstico em Cybersegurança (Vulnera)
 
 Problema identificado:
 A crescente demanda por profissionais de cibersegurança contrasta com a falta de ferramentas acessíveis para avaliar o nível de conhecimento de estudantes, iniciantes e até mesmo de colaboradores em empresas. Muitas vezes não há um diagnóstico inicial que indique lacunas de aprendizado, dificultando a escolha de treinamentos adequados e a formação de profissionais mais preparados.
@@ -22,18 +22,15 @@ A Plataforma de Avaliação em Cibersegurança oferece testes diagnósticos grat
 ### 1️⃣ Definição do Problema e da Solução
 - **Problema identificado:** Inexistência de uma plataforma de diagnóstico em cibersegurança brasileira funcional,
 limitando as opções à plataformas estrangeiras com acesso dificultado.
-- **Público-alvo:** -Estudantes.
-                    -Profissionais. 
-                    -Aspirantes a entrar na área.
-                    -Entusiastas.
-- **Impacto esperado:** Conhecimentos mais concretos na área de cibersegurança.
+- **Público-alvo:** Estudantes, Profissionais, Aspirantes a entrar na área e entusiastas.
+- **Impacto esperado:** Conhecimentos mais concretos nacionalmente na área de cibersegurança.
 - **Solução proposta:** Plataforma de Diagnóstico em CiberSegurança voltada para o público Brasileiro e reconhecimento nacional.
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 
 - Lean Canvas (imagem ou link)
 - Missão: Aprimorar os conhecimentos em CiberSegurança no Brasil
-- Visão: Foco em identificar lacunas de conhecimento, Guiar os estudantes a conteúdos integros. 
+- Visão: Foco em identificar lacunas de conhecimento, Guiar os estudantes a conteúdos integros.
 - Valores: Integridade, Qualidade, Confiabilidade, Impacto Nacional.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
