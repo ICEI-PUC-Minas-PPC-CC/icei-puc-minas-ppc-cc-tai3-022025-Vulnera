@@ -1,4 +1,4 @@
-# 📌 Plataforma de Diagnóstico em Cybersegurança (Vulnera)
+# 📌 Vulnera - Plataforma de Diagnóstico em Cybersegurança
 
 Problema identificado:
 A crescente demanda por profissionais de cibersegurança contrasta com a falta de ferramentas acessíveis para avaliar o nível de conhecimento de estudantes, iniciantes e até mesmo de colaboradores em empresas. Muitas vezes não há um diagnóstico inicial que indique lacunas de aprendizado, dificultando a escolha de treinamentos adequados e a formação de profissionais mais preparados.
@@ -28,7 +28,9 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 
-- Lean Canvas (imagem ou link)
+- Lean Canvas:
+<img src="docs/img/TAI3_Lean_Canva.jpg"/>
+
 - Missão: Aprimorar os conhecimentos em CiberSegurança no Brasil
 - Visão: Foco em identificar lacunas de conhecimento, Guiar os estudantes a conteúdos integros.
 - Valores: Integridade, Qualidade, Confiabilidade, Impacto Nacional.
