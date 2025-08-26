@@ -70,12 +70,14 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 
 ---
 
-## 📅 Diário de Bordo
+## 📅 Diário de Bordo 🚧 ✅
 
 | Data       | Conteúdo/Etapa                     | Status     | Observações |
 |------------|------------------------------------|------------|-------------|
 | 06/08/2025 | Apresentação Disciplina + Start    | ✅ Concluído | — |
-| 13/08/2025 | Definição dos Grupos e Propostas   | 🚧 Em andamento | Ajustar proposta com feedback do professor |
+| 13/08/2025 | Definição dos Grupos e Propostas   | ✅ Concluído | Ajustar proposta com feedback do professor |
+| 20/08/2025 | Criação do Lean Canvas | ✅ Concluído | - |
+ 	 	 	
 
 ---
 
@@ -83,7 +85,7 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 
 | Entrega                                | Data       | Descrição                                                         | Status |
 |----------------------------------------|------------|-------------------------------------------------------------------|--------|
-| Lean Canvas                            | 20/08/2025 | Documento e imagem do canvas                                      | —      |
+| Lean Canvas                            | 20/08/2025 | Documento e imagem do canvas                                      | Concluído |
 | Custos e Tributos                      | 27/08/2025 | Planilha com custos fixos, variáveis e tributos                   | —      |
 | Análise SWOT / Plano de Negócios       | 24/09/2025 | Análise de ambientes SWOT e entrega do Plano de Negócios          | —      |
 | Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | —      |
@@ -108,17 +110,12 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 ## 📁 Organização do Repositório
 
 ```
-📦 projeto/
+ 📦 projeto/
  ┣ 📂 docs/
- ┃ ┣ lean_canvas.png
- ┃ ┣ custos_tributos.xlsx
- ┃ ┣ swot_plano_negocios.pdf
- ┃ ┣ fluxo_caixa_planejamento.xlsx
- ┃ ┗ valuation.pdf
- ┣ 📂 src/
- ┃ ┣ prototipo/
- ┃ ┗ documentos_planejamento/
- ┣ README.md
+ ┃ ┣ 📂 img/
+ ┃ ┃ ┗ TAI3_Lean_Canva.jpg
+ ┃ ┗ documento.md
+ ┗ README.md
 ```
 
 ---
