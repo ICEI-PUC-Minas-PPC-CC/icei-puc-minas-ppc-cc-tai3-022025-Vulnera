@@ -36,9 +36,14 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 - Valores: Integridade, Qualidade, Confiabilidade, Impacto Nacional.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- Custos fixos:  
-- Custos variáveis:  
-- Tributos aplicáveis:  
+- Custos fixos:
+ <img src="docs/img/Custos_Fixos.png"/>
+- Custos variáveis:
+ <img src="docs/img/Custos_Variaveis.png"/>
+- Custos Totais:
+ <img src="docs/img/Custos_finais.png"/>
+ <img src="docs/img/Fim_Custos_Finais.png"/>
+
 
 ### 4️⃣ Investimentos e Precificação
 - Investimento inicial:  
