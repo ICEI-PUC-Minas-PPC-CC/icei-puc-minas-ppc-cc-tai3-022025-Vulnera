@@ -29,7 +29,7 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 
 - Lean Canvas:
-<img src="docs/img/TAI3_Lean_Canva.jpg"/>
+<img src="docs/img/TAI3_Lean_Canva.png"/>
 
 - Missão: Aprimorar os conhecimentos em CiberSegurança no Brasil
 - Visão: Foco em identificar lacunas de conhecimento, Guiar os estudantes a conteúdos integros.
