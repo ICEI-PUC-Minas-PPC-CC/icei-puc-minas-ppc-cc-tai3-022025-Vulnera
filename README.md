@@ -60,6 +60,8 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 - Registro de Marca - R$440,00 (Valor médio para microempresas)
 - Infraestrututra AWS - R$240,00
 ##### Total: R$1.140,00
+
+<img src="docs/img/Investimento_Pre_Operacional.png"/>
 <hr/>
 
 #### Capital de Giro
@@ -69,6 +71,8 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 - Manutenção - R$0,00 (R$3.000,00 caso necessite funcionario)
 - Impostos - até 20% (Imposto sobre o ganho)
 ##### Total: R$630,00 + impostos
+
+<img src="docs/img/Capital_Giro.png"/>
 <hr/>
 
 ### Precificação:
