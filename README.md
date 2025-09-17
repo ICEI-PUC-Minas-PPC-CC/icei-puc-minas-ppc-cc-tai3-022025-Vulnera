@@ -37,18 +37,80 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:
- <img src="docs/img/Custos_Fixos.png"/>
+<img src="docs/img/Custos_Fixos.png"/>
+ 
 - Custos variáveis:
- <img src="docs/img/Custos_Variaveis.png"/>
+<img src="docs/img/Custos_Variaveis.png"/>
+
 - Custos Totais:
- <img src="docs/img/Custos_finais.png"/>
- <img src="docs/img/Fim_Custos_Finais.png"/>
+<img src="docs/img/Custos_finais.png"/>
+<img src="docs/img/Fim_Custos_Finais.png"/>
 
 
 ### 4️⃣ Investimentos e Precificação
-- Investimento inicial:  
-- Estratégia de precificação:  
-- Justificativa:  
+### Investimentos:
+#### Fixo: 
+##### Total: R$0,00
+<hr/>
+
+#### Pré-operacional 
+- Certificado SSL - R$70,00
+- Dominio - R$40,00
+- Marketing - R$600,00
+- Registro de Marca - R$440,00 (Valor médio para microempresas)
+- Infraestrututra AWS - R$240,00
+##### Total: R$1.140,00
+<hr/>
+
+#### Capital de Giro
+- Marketing - R$350,00
+- Dominio - R$40,00
+- Infraestrututra AWS - R$240,00
+- Manutenção - R$0,00 (R$3.000,00 caso necessite funcionario)
+- Impostos - até 20% (Imposto sobre o ganho)
+##### Total: R$630,00 + impostos
+<hr/>
+
+### Precificação:
+#### Valor entregue:
+Usuário consegue determinar as brechas no seu conhecimento sobre cibersegurança, direcionando o foco dos estudos, economizando tempo de planejamento e concretizando o conhecimento com certificados.
+
+
+#### Capacidade de pagamento:
+Estimativa entre R$30,00 para planos mais básicos até R$200,00 para pacotes completos.
+
+
+#### Concorrência:
+- Hackers do bem - Não há cobrança, porém é considerado limitado em suas funcionalidades.
+- Guardey - Focado mais em treinamentos, faz diagnósticos porém não possui conteúdo em português do Brasil
+- Phished - Também focado em treinamento, porém conteúdo em inglês
+
+#### Modelo de Precificação:
+Diferenciação por funcionalidades.
+
+
+#### Peridicidade:
+Não há.
+<hr/>
+
+### Métricas
+#### CAC:
+Marketing /N de clientes novos conquistados
+
+Estimatíva: 350,00/10 = R$35,00
+
+
+#### ARPU:
+Receita média por usuário
+
+Estimatíva: R$40,00
+
+
+#### LTV:
+Ticket Médio x Frequência de Compra x Tempo de Vida do Cliente
+
+Estimatíva: 40,00 x 3 x 3 = R$360,00 
+
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças:  
@@ -79,9 +141,11 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 
 | Data       | Conteúdo/Etapa                     | Status     | Observações |
 |------------|------------------------------------|------------|-------------|
-| 06/08/2025 | Apresentação Disciplina + Start    | ✅ Concluído | — |
+| 06/08/2025 | Apresentação Disciplina + Start    | ✅ Concluído | - |
 | 13/08/2025 | Definição dos Grupos e Propostas   | ✅ Concluído | Ajustar proposta com feedback do professor |
 | 20/08/2025 | Criação do Lean Canvas | ✅ Concluído | - |
+| 10/09/2025 | Criação da planilha de Custos e Tributos | ✅ Concluído | - |
+| 17/09/2025 | Criação do plano de Negócios | ✅ Concluido | - |
  	 	 	
 
 ---
@@ -90,9 +154,10 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 
 | Entrega                                | Data       | Descrição                                                         | Status |
 |----------------------------------------|------------|-------------------------------------------------------------------|--------|
-| Lean Canvas                            | 20/08/2025 | Documento e imagem do canvas                                      | Concluído |
-| Custos e Tributos                      | 27/08/2025 | Planilha com custos fixos, variáveis e tributos                   | —      |
-| Análise SWOT / Plano de Negócios       | 24/09/2025 | Análise de ambientes SWOT e entrega do Plano de Negócios          | —      |
+| Lean Canvas                            | 26/08/2025 | Documento e imagem do canvas                                      | Concluído |
+| Custos e Tributos                      | 10/09/2025 | Planilha com custos fixos, variáveis e tributos                   | Concluído |
+| Plano de Negócios                      | 17/09/2025 | levantamento completo dos investimentos e precificações           | Concluido |
+| Análise SWOT                           | 24/09/2025 | Análise de ambientes SWOT                                         | —      |
 | Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | —      |
 | Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                                | —      |
 | Valuation      | 12/11/2025 | Valuation | —      |
