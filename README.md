@@ -14,7 +14,6 @@ A Plataforma de Avaliação em Cibersegurança oferece testes diagnósticos grat
 - Luiz Felipe Loro Piva – RA: 1439917 
 - Henrique Luiz Lopes – RA: 1439763
 - Flávio de Carvalho Cury - RA: 1438842
-<a src="docs/custos_estudo.md">teste</a>
 
 ---
 
