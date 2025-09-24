@@ -21,3 +21,6 @@ Total inicial aproximado 6% - 15,5%.
 Alíquota aumenta conforme receita
 
 Obrigações acessórias: Emissão de Notas Fiscais, Livro Caixa simplificado, Backup e armazenamento de notas fiscais, e PGDAS-D.
+
+<img src="img/Enquadramento Jurídico .png"/>
+<img src="img/Impostos(Simples Nacional).png"/>
