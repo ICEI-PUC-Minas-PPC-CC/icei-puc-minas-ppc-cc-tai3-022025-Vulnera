@@ -36,6 +36,8 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 - Valores: Integridade, Qualidade, Confiabilidade, Impacto Nacional.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
+[Custos de Estudo](docs/custos_estudo.md)
+
 - Custos fixos:
 <img src="docs/img/Custos_Fixos.png"/>
  
