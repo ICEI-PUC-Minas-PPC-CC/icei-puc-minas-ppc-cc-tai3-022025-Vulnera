@@ -118,7 +118,7 @@ Ticket Médio x Frequência de Compra x Tempo de Vida do Cliente
 Estimatíva: 40,00 x 3 x 3 = R$360,00 
 
 ### Plano de Negócio:
-#[Plano de Negócio](docs/plano_de_negocio.md)
+[Plano de Negócio](docs/plano_de_negocio.md)
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças:  
