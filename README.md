@@ -121,10 +121,7 @@ Estimatíva: 40,00 x 3 x 3 = R$360,00
 [Plano de Negócio](docs/plano_de_negocio.md)
 
 ### 5️⃣ SWOT (Análise de Ambientes)
-- Forças:  
-- Fraquezas:  
-- Oportunidades:  
-- Ameaças:  
+[Plano de Negócio](docs/plano_de_negocio.md)
 
 ### 6️⃣ Planejamento Estratégico (BSC)
 - Objetivos estratégicos:  
@@ -165,7 +162,7 @@ Estimatíva: 40,00 x 3 x 3 = R$360,00
 | Lean Canvas                            | 26/08/2025 | Documento e imagem do canvas                                      | Concluído |
 | Custos e Tributos                      | 10/09/2025 | Planilha com custos fixos, variáveis e tributos                   | Concluído |
 | Plano de Negócios                      | 17/09/2025 | levantamento completo dos investimentos e precificações           | Concluido |
-| Análise SWOT                           | 24/09/2025 | Análise de ambientes SWOT                                         | —      |
+| Análise SWOT                           | 24/09/2025 | Análise de ambientes SWOT                                         | Concluido |
 | Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | —      |
 | Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                                | —      |
 | Valuation      | 12/11/2025 | Valuation | —      |
