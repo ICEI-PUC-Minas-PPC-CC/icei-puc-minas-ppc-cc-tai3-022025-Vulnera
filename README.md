@@ -127,12 +127,14 @@ Estimatíva: 40,00 x 3 x 3 = R$360,00
 Perspectiva Financeira pré operacional Vulnera:
 
 - Objetivos:
+  
  Estabelecer fluxo de caixa positivo até o 18º mês de operação;
  Alcançar ponto de equilíbrio (break-even) em 6 meses;
  Manter controle rigoroso de custos e despesas iniciais;
  Atingir receita mensal projetada de R$1800 até o final do primeiro ano.
 
-- Indicadores 
+- Indicadores:
+  
  Faturamento projetado: R$10.000 no 1º ano, com crescimento de 20% ao ano;
  Despesas operacionais planejadas: até 80% do faturamento;
  Lucro líquido estimado: R$2.000 até o final do 12º ciclo;
@@ -142,6 +144,7 @@ Perspectiva Financeira pré operacional Vulnera:
 Perspectiva dos Clientes:
 
 - Objetivos:
+  
  Aumentar a confiabilidade do cliente;
  Oferecer avaliações acessíveis e de qualidade;
  Aumentar a confiança do usuário em suas habilidades;
@@ -149,6 +152,7 @@ Perspectiva dos Clientes:
  Alcançar reconhecimento como referência em testes de cibersegurança.
 
 - Indicadores:
+  
  Número de usuários ativos e recorrentes;
  Taxa de recompra dos testes;
  Taxa de usuários convertidos em clientes;
@@ -159,6 +163,7 @@ Perspectiva dos Clientes:
 Perspectiva dos Processos Internos:
 
 - Objetivos:
+  
  Desenvolver processos internos eficientes.
  Definir métodos de trabalho padronizados.
  Garantir que as atividades sejam realizadas com agilidade e qualidade. 
@@ -166,6 +171,7 @@ Perspectiva dos Processos Internos:
  Criar uma base sólida para a futura operação e atendimento aos clientes.
 
 - Indicadores:
+  
  Tempo médio de execução das atividades.
  Número de revisões ou retrabalhos necessários até a entrega final.
  Frequência de reuniões de acompanhamento de processos.
@@ -174,12 +180,14 @@ Perspectiva dos Processos Internos:
 Perspectiva do Aprendizado e Crescimento:
 
 - Objetivos:
+  
  Como a empresa é composta apenas pelos quatro sócios e ainda está em fase inicial, o foco está no desenvolvimento técnico e organizacional do grupo;
  busca-se aprimorar conhecimentos nas áreas essenciais do negócio;
  consolidar uma cultura baseada em inovação e cooperação;
  e melhorar gradualmente os equipamentos e ferramentas utilizadas.
 
 - Indicadores:
+  
  Como indicadores, serão considerados as horas de capacitação de cada sócio;
  O investimento em infraestrutura e equipamentos;
  A realização de reuniões periódicas de alinhamento;
