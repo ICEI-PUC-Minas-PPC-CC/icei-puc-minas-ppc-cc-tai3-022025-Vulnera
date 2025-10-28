@@ -79,8 +79,6 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 
 Simulação com Faturamento de R$20.000/mês
 
-A seguir, uma exemplificação para demonstrar o impacto tributário e a diferença no faturamento líquido conforme o cenário operacional:
-
 ##Sem Funcionário
 
 Marketing: R$350,00
