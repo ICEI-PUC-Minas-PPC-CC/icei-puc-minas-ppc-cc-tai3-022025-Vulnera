@@ -77,18 +77,7 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 - Impostos - até 20% (Imposto sobre o ganho)
 ##### Total: R$630,00 + impostos
 
-| Despesa                          | Valor Mensal (R$) |  9 Meses (R$) | Observações                               |
-| -------------------------------- | ----------------: | ------------: | ----------------------------------------- |
-| **Marketing**                    |            350,00 |      3.150,00 | Campanhas em redes sociais e tráfego pago |
-| **Infraestrutura AWS**           |            240,00 |      2.160,00 | Hospedagem e banco de dados               |
-| **Manutenção (sem funcionário)** |              0,00 |          0,00 | Apenas monitoramento interno              |
-| **Manutenção (com funcionário)** |          3.000,00 |     27.000,00 | Caso seja contratado suporte técnico      |
-| **Impostos (estimado 20%)**      |          variável |      variável | Incide sobre o lucro mensal               |
-| **Total (sem funcionário)**      |    **590,00/mês** |  **5.310,00** | Custo operacional mínimo                  |
-| **Total (com funcionário)**      |  **3.590,00/mês** | **32.310,00** | Custo operacional ampliado                |
-
-
-Simulação com Faturamento de R$20.000/mês
+## Simulação com Faturamento de R$20.000/mês
 
 ## Sem Funcionário
 
@@ -116,6 +105,17 @@ Impostos: R$1.200,00 (6% do faturamento bruto)
 → Total de custos: R$5.675,00
 → Faturamento líquido: R$14.325,00
 
+
+## Capital de giro projetado para 9 meses:
+| Despesa                          | Valor Mensal (R$) |  9 Meses (R$) | Observações                               |
+| -------------------------------- | ----------------: | ------------: | ----------------------------------------- |
+| **Marketing**                    |            350,00 |      3.150,00 | Campanhas em redes sociais e tráfego pago |
+| **Infraestrutura AWS**           |            240,00 |      2.160,00 | Hospedagem e banco de dados               |
+| **Manutenção (sem funcionário)** |              0,00 |          0,00 | Apenas monitoramento interno              |
+| **Manutenção (com funcionário)** |          3.000,00 |     27.000,00 | Caso seja contratado suporte técnico      |
+| **Impostos (estimado 20%)**      |          variável |      variável | Incide sobre o lucro mensal               |
+| **Total (sem funcionário)**      |    **590,00/mês** |  **5.310,00** | Custo operacional mínimo                  |
+| **Total (com funcionário)**      |  **3.590,00/mês** | **32.310,00** | Custo operacional ampliado                |
 <img src="docs/img/Capital_Giro.png"/>
 <hr/>
 
