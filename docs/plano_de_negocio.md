@@ -22,7 +22,15 @@ ISS(2% - 5%).
 Total inicial aproximado 6% - 15,5%.
 Alíquota aumenta conforme receita
 
-Obrigações acessórias: Emissão de Notas Fiscais, Livro Caixa simplificado, Backup e armazenamento de notas fiscais, e PGDAS-D.
+Obrigações acessórias:
+
+Mensais:
+As obrigações acessórias mensais da empresa incluem a emissão de notas fiscais referentes a todos os serviços prestados, o preenchimento e envio do PGDAS-D, que é a declaração utilizada para informar o faturamento e calcular os tributos do Simples Nacional, e o pagamento da guia DAS, que consolida impostos como IRPJ, CSLL, PIS, COFINS e ISS em um único documento. Além disso, é necessário manter o Livro Caixa Simplificado atualizado, registrando todas as entradas e saídas financeiras da empresa, e realizar backups e armazenamento das notas fiscais eletrônicas, garantindo a integridade e disponibilidade desses documentos para fins de auditoria e controle contábil.
+
+Anuais:
+Já as obrigações acessórias anuais envolvem a consolidação do Livro Caixa Simplificado, reunindo todas as movimentações financeiras do ano, e a entrega da DEFIS (Declaração de Informações Socioeconômicas e Fiscais), que substitui a ECF para empresas optantes pelo Simples Nacional. Também é importante realizar o encerramento contábil e a elaboração do balanço anual, permitindo avaliar o desempenho financeiro e cumprir exigências legais, além da renovação das certidões negativas de débitos municipais, estaduais e federais, assegurando que a empresa mantenha sua regularidade fiscal perante os órgãos competentes.
+
+
 
 <img src="img/Enquadramento_Jurídico.png"/>
 
