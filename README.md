@@ -39,13 +39,17 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 [Custos de Estudo](docs/custos_estudo.md)
 
 - Custos fixos:
+- 
 <img src="docs/img/Custos_Fixos.png"/>
  
 - Custos variáveis:
+- 
 <img src="docs/img/Custos_Variaveis.png"/>
 
 - Custos Totais:
+- 
 <img src="docs/img/Custos_finais.png"/>
+
 <img src="docs/img/Fim_Custos_Finais.png"/>
 
 
