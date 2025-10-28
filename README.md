@@ -127,24 +127,6 @@ Não há.
 | **Tempo médio de permanência**          | 1 / churn                                 | 5 meses                    | Mantém coerência com o modelo de assinatura |
 | **LTV (Lifetime Value)**                | Ticket médio × Frequência × Tempo de vida | 40 × 3 × 5 = **R$ 600,00** | Corrigido com base no churn real            |
 
-
-#### CAC:
-Marketing /N de clientes novos conquistados
-
-Estimatíva: 350,00/10 = R$35,00
-
-
-#### ARPU:
-Receita média por usuário
-
-Estimatíva: R$40,00
-
-
-#### LTV:
-Ticket Médio x Frequência de Compra x Tempo de Vida do Cliente
-
-Estimatíva: 40,00 x 3 x 3 = R$360,00 
-
 ### Plano de Negócio:
 [Plano de Negócio](docs/plano_de_negocio.md)
 
