@@ -79,7 +79,7 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 
 Simulação com Faturamento de R$20.000/mês
 
-##Sem Funcionário
+## Sem Funcionário
 
 Marketing: R$350,00
 
@@ -91,7 +91,7 @@ Impostos: R$1.200,00 (6% do faturamento bruto)
 → Total de custos: R$1.790,00
 → Faturamento líquido: R$18.210,00
 
-##Com Funcionário
+## Com Funcionário
 
 Marketing: R$350,00
 
