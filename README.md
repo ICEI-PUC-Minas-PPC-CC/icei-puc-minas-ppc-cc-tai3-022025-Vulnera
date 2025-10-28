@@ -103,6 +103,31 @@ Usuário consegue determinar as brechas no seu conhecimento sobre ciberseguranç
 #### Capacidade de pagamento:
 Estimativa entre R$30,00 para planos mais básicos até R$200,00 para pacotes completos.
 
+- Teste Diagnóstico Geral Básico – R$ 14,90
+
+Voltado para iniciantes, este teste avalia os conceitos fundamentais de cibersegurança e boas práticas digitais. Ele permite ao usuário ter uma visão inicial sobre o quanto domina áreas essenciais como senhas seguras, phishing, engenharia social e segurança de dispositivos pessoais.
+Entrega: relatório simples com pontuação geral, feedback por tema e recomendações iniciais de estudo.
+
+- Teste Diagnóstico Geral Médio – R$ 24,90
+
+Destinado a usuários que já possuem alguma familiaridade com segurança da informação. O teste aprofunda-se em tópicos como criptografia básica, autenticação multifator, redes seguras e análise de riscos pessoais.
+Entrega: relatório intermediário com percentuais de acerto por categoria, nível de maturidade em segurança digital e lista de conteúdos sugeridos para avanço de nível.
+
+- Teste Diagnóstico Geral Avançado – R$ 34,90
+
+Indicados para usuários ou profissionais que desejam testar conhecimentos técnicos e estratégicos em cibersegurança. Inclui questões sobre vulnerabilidades comuns, pentest, segurança de rede, padrões ISO e resposta a incidentes, etc.
+Entrega: relatório técnico completo e detelhado com análise de desempenho e certificado de proficiência emitido conforme o nível alcançado.
+
+- Testes Diagnósticos Específicos (Sub-áreas) – R$ 34,90 (cada)
+
+Focado em áreas específicas da cibersegurança, como Red Team, Blue Team, Forense Digital, Segurança em Redes, Criptografia ou Engenharia Social. Ideal para quem deseja medir domínio em um campo de atuação específico.
+Entrega: relatório individual da subárea escolhida com pontuação detalhada, comparativo com o desempenho médio da comunidade e trilha de aprendizado personalizada para aprimoramento técnico naquela área.
+
+
+- Pacote de Diagnósticos Específicos (5 Sub-áreas) – R$ 129,90
+
+Oferece acesso a cinco testes de subáreas diferentes (a escolha), permitindo uma avaliação completa do perfil técnico do usuário.
+Entrega: acesso aos cinco testes individuais, relatório consolidado com mapa de habilidades em cibersegurança, identificação de pontos fortes e fracos por domínio e certificado de competências gerais, ideal para incluir em portfólios e processos seletivos.
 
 #### Concorrência:
 - Hackers do bem - Não há cobrança, porém é considerado limitado em suas funcionalidades.
