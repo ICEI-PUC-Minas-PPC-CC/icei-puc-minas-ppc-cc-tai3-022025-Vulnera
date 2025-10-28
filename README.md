@@ -118,6 +118,16 @@ Não há.
 <hr/>
 
 ### Métricas
+
+| Métrica                                 | Fórmula                                   | Estimativa Atual           | Observação                                  |
+| --------------------------------------- | ----------------------------------------- | -------------------------- | ------------------------------------------- |
+| **CAC (Custo de Aquisição de Cliente)** | Marketing / Nº de clientes novos          | 350 / 10 = **R$ 35,00**    | Valor adequado para início                  |
+| **ARPU (Receita Média por Usuário)**    | Receita total / Nº de usuários            | ≈ **R$ 40,00**             | Recalcular conforme novos pacotes           |
+| **Churn (Taxa de cancelamento)**        | Clientes cancelados / Clientes ativos     | Estimado: 20%              | Base para calcular tempo de permanência     |
+| **Tempo médio de permanência**          | 1 / churn                                 | 5 meses                    | Mantém coerência com o modelo de assinatura |
+| **LTV (Lifetime Value)**                | Ticket médio × Frequência × Tempo de vida | 40 × 3 × 5 = **R$ 600,00** | Corrigido com base no churn real            |
+
+
 #### CAC:
 Marketing /N de clientes novos conquistados
 
