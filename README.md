@@ -50,7 +50,6 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 - 
 <img src="docs/img/Custos_finais.png"/>
 
-<img src="docs/img/Fim_Custos_Finais.png"/>
 
 
 ### 4️⃣ Investimentos e Precificação
