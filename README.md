@@ -87,7 +87,9 @@ Exemplificação com faturamento de 20mil/mês para demonstrar o impacto tribut�
 - Impostos - R$1200,00  6% do faturamento (Imposto sobre o ganho)
   
 Faturamento bruto: R$20.000,00
+
 Faturamento liquído (Sem funcionário): R$18.210,00
+
 Faturamento liquído (Com funcionário): R$14.325,00
 
 <img src="docs/img/Capital_Giro.png"/>
