@@ -24,8 +24,10 @@ Alíquota aumenta conforme receita
 
 Obrigações acessórias: Emissão de Notas Fiscais, Livro Caixa simplificado, Backup e armazenamento de notas fiscais, e PGDAS-D.
 
-<img src="img/Enquadramento_Jurídico.png"/>
-<img src="img/Impostos(Simples Nacional).png"/>
+<img src="docs/img/Enquadramento_Jurídico.png"/>
+
+
+<img src="docs/img/Impostos(Simples Nacional).png"/>
 
 # Pesquisa de mercado
 
