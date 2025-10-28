@@ -77,20 +77,35 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 - Impostos - até 20% (Imposto sobre o ganho)
 ##### Total: R$630,00 + impostos
 
-Exemplificação com faturamento de 20mil/mês para demonstrar o impacto tributário:
+Simulação com Faturamento de R$20.000/mês
 
-- Marketing - R$350,00
-- Infraestrututra AWS - R$240,00
-- Manutenção - R$0,00 (R$3.000,00 caso necessite funcionario)
-  - Impostos patronais - FGTS (8%); 13º salário (8,33%); Férias + 1/3 (11,11%); Aviso prévio e extras (2%).
-  - Total 29,44% ~= 29,5% (R$885,00)
-- Impostos - R$1200,00  6% do faturamento (Imposto sobre o ganho)
-  
-Faturamento bruto: R$20.000,00
+A seguir, uma exemplificação para demonstrar o impacto tributário e a diferença no faturamento líquido conforme o cenário operacional:
 
-Faturamento liquído (Sem funcionário): R$18.210,00
+##Sem Funcionário
 
-Faturamento liquído (Com funcionário): R$14.325,00
+Marketing: R$350,00
+
+Infraestrutura AWS: R$240,00
+
+Manutenção: R$0,00
+
+Impostos: R$1.200,00 (6% do faturamento bruto)
+→ Total de custos: R$1.790,00
+→ Faturamento líquido: R$18.210,00
+
+##Com Funcionário
+
+Marketing: R$350,00
+
+Infraestrutura AWS: R$240,00
+
+Manutenção: R$3.000,00
+
+Encargos patronais (FGTS, 13º, férias, extras): 29,44% ≈ R$885,00
+
+Impostos: R$1.200,00 (6% do faturamento bruto)
+→ Total de custos: R$5.675,00
+→ Faturamento líquido: R$14.325,00
 
 <img src="docs/img/Capital_Giro.png"/>
 <hr/>
