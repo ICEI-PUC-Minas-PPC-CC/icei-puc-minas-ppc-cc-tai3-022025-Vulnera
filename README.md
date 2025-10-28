@@ -150,12 +150,12 @@ Entrega: relatório individual da subárea escolhida com pontuação detalhada, 
 Oferece acesso a cinco testes de subáreas diferentes (a escolha), permitindo uma avaliação completa do perfil técnico do usuário.
 Entrega: acesso aos cinco testes individuais, relatório consolidado com mapa de habilidades em cibersegurança, identificação de pontos fortes e fracos por domínio e certificado de competências gerais, ideal para incluir em portfólios e processos seletivos.
 
-### Projeção de Receita por Cenários:
-| Cenário   | Usuários Ativos | Ticket Médio (R$) | Receita Mensal (R$) | Receita em 9 Meses (R$) |       Lucro Estimado (sem impostos) |
-| --------- | --------------: | ----------------: | ------------------: | ----------------------: | ----------------------------------: |
-| **Baixo** |              20 |                30 |              600,00 |                5.400,00 |        5.400 - 5.310 = **R$ 90,00** |
-| **Médio** |              50 |                80 |            4.000,00 |               36.000,00 |   36.000 - 5.310 = **R$ 30.690,00** |
-| **Alto**  |             100 |               200 |           20.000,00 |              180.000,00 | 180.000 - 5.310 = **R$ 174.690,00** |
+### Projeção de Receita por Cenários (Ticket médio R$ 80,00):
+| Cenário   | Usuários Ativos | Ticket Médio (R$) | Receita Mensal (R$) | Receita em 9 Meses (R$) |     Lucro Estimado (sem impostos) |
+| --------- | --------------: | ----------------: | ------------------: | ----------------------: | --------------------------------: |
+| **Baixo** |              20 |                80 |            1.600,00 |               14.400,00 |  14.400 - 5.310 = **R$ 9.090,00** |
+| **Médio** |              50 |                80 |            4.000,00 |               36.000,00 | 36.000 - 5.310 = **R$ 30.690,00** |
+| **Alto**  |             100 |                80 |            8.000,00 |               72.000,00 | 72.000 - 5.310 = **R$ 66.690,00** |
 
 #### Concorrência:
 - Hackers do bem - Não há cobrança, porém é considerado limitado em suas funcionalidades.
