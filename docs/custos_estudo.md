@@ -1,6 +1,6 @@
 ### Estudo de custos:
 
-- Desenvolvimento - 20.000 - Fixo Indireto
+- Desenvolvimento - 20.000 - Investimento pré operacional 
 
 - AWS - 50,00/mês - Variavel Direto (Infra Completa Sob Demanda)
 
@@ -17,5 +17,6 @@
 <img src="img/Servicos_Vulnera.png"/>
 
 <img src="img/Top5_Custos_Fixos.png"/>
+
 
 
