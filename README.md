@@ -75,7 +75,7 @@ limitando as opções à plataformas estrangeiras com acesso dificultado.
 - Infraestrututra AWS - R$240,00
 - Manutenção - R$0,00 (R$3.000,00 caso necessite funcionario)
 - Impostos - até 20% (Imposto sobre o ganho)
-##### Total: R$630,00 + impostos
+##### Total: R$590,00 + impostos
 
 ## Simulação com Faturamento de R$20.000/mês
 
