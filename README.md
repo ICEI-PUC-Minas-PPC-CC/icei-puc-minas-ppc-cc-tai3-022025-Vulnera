@@ -105,7 +105,6 @@ Impostos: R$1.200,00 (6% do faturamento bruto)
 → Total de custos: R$5.675,00
 → Faturamento líquido: R$14.325,00
 
-
 ## Capital de giro projetado para 9 meses:
 | Despesa                          | Valor Mensal (R$) |  9 Meses (R$) | Observações                               |
 | -------------------------------- | ----------------: | ------------: | ----------------------------------------- |
@@ -122,7 +121,6 @@ Impostos: R$1.200,00 (6% do faturamento bruto)
 ### Precificação:
 #### Valor entregue:
 Usuário consegue determinar as brechas no seu conhecimento sobre cibersegurança, direcionando o foco dos estudos, economizando tempo de planejamento e concretizando o conhecimento com certificados.
-
 
 #### Capacidade de pagamento:
 Estimativa entre R$30,00 para planos mais básicos até R$200,00 para pacotes completos.
@@ -147,11 +145,17 @@ Entrega: relatório técnico completo e detelhado com análise de desempenho e c
 Focado em áreas específicas da cibersegurança, como Red Team, Blue Team, Forense Digital, Segurança em Redes, Criptografia ou Engenharia Social. Ideal para quem deseja medir domínio em um campo de atuação específico.
 Entrega: relatório individual da subárea escolhida com pontuação detalhada, comparativo com o desempenho médio da comunidade e trilha de aprendizado personalizada para aprimoramento técnico naquela área.
 
-
 - Pacote de Diagnósticos Específicos (5 Sub-áreas) – R$ 129,90
 
 Oferece acesso a cinco testes de subáreas diferentes (a escolha), permitindo uma avaliação completa do perfil técnico do usuário.
 Entrega: acesso aos cinco testes individuais, relatório consolidado com mapa de habilidades em cibersegurança, identificação de pontos fortes e fracos por domínio e certificado de competências gerais, ideal para incluir em portfólios e processos seletivos.
+
+### Projeção de Receita por Cenários:
+| Cenário   | Usuários Ativos | Ticket Médio (R$) | Receita Mensal (R$) | Receita em 9 Meses (R$) |       Lucro Estimado (sem impostos) |
+| --------- | --------------: | ----------------: | ------------------: | ----------------------: | ----------------------------------: |
+| **Baixo** |              20 |                30 |              600,00 |                5.400,00 |        5.400 - 5.310 = **R$ 90,00** |
+| **Médio** |              50 |                80 |            4.000,00 |               36.000,00 |   36.000 - 5.310 = **R$ 30.690,00** |
+| **Alto**  |             100 |               200 |           20.000,00 |              180.000,00 | 180.000 - 5.310 = **R$ 174.690,00** |
 
 #### Concorrência:
 - Hackers do bem - Não há cobrança, porém é considerado limitado em suas funcionalidades.
