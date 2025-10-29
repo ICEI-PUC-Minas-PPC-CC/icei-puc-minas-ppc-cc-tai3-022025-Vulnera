@@ -65,7 +65,7 @@ O Phished representa uma ameaça indireta à Vulnera, já que foca em treinament
 
 # Fluxo de Caixa
 
-## Análise Financeira e Crescimento do Vulnera
+### Análise do fluxo de caixa e Crescimento do Vulnera
 
 O valor de ARPU = R$ 50,00 foi definido como uma média entre os diferentes produtos da plataforma, refletindo o comportamento natural dos usuários: começam em planos básicos e, com o tempo, avançam para opções mais completas. Assim, o ARPU representa um equilíbrio realista entre usuários novos e recorrentes.
 
