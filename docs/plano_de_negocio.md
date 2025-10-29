@@ -64,3 +64,11 @@ O Phished representa uma ameaça indireta à Vulnera, já que foca em treinament
 <img src="img/SWOT.png"/>
 
 # Fluxo de Caixa
+
+## Análise Financeira e Crescimento do Vulnera
+
+O valor de ARPU = R$ 50,00 foi definido como uma média entre os diferentes produtos da plataforma, refletindo o comportamento natural dos usuários: começam em planos básicos e, com o tempo, avançam para opções mais completas. Assim, o ARPU representa um equilíbrio realista entre usuários novos e recorrentes.
+
+O crescimento projetado parte de poucos usuários no início, aumentando gradualmente até 20 usuários ativos, todos com ticket médio de R$ 50,00. Esse ritmo demonstra uma expansão orgânica e controlada, adequada para um estágio inicial.
+
+Com capital de giro mensal de R$ 590,00 e 6% de impostos sobre as vendas, o Vulnera se consolida como uma plataforma de baixo custo e fácil escalabilidade, atingindo o ponto de equilíbrio já com cerca de 20 usuários, o que evidencia a sustentabilidade e o potencial de crescimento do modelo.
