@@ -62,3 +62,5 @@ O Phished representa uma ameaça indireta à Vulnera, já que foca em treinament
 # SWOT
 
 <img src="img/SWOT.png"/>
+
+# Fluxo de Caixa
