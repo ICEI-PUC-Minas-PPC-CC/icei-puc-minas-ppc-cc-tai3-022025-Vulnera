@@ -256,8 +256,8 @@ Perspectiva do Aprendizado e Crescimento:
  E a criação de registros internos que contribuam para a organização e o crescimento da empresa.
 
 ### 7️⃣ Fluxo de Caixa
-- Planilha ou print do fluxo projetado:  
-- Principais considerações:  
+
+<img src="docs/img/Fluxo_de_caixa.png"/>
 
 ### 8️⃣ Valuation
 - Método utilizado:  
