@@ -111,7 +111,7 @@ Impostos: R$1.200,00 (6% do faturamento bruto)
 | **Infraestrutura AWS**           |            240,00 |      2.160,00 | Hospedagem e banco de dados               |
 | **Manutenção (sem funcionário)** |              0,00 |          0,00 | Apenas monitoramento interno              |
 | **Manutenção (com funcionário)** |          3.000,00 |     27.000,00 | Caso seja contratado suporte técnico      |
-| **Impostos (estimado 20%)**      |          variável |      variável | Incide sobre o lucro mensal               |
+| **Impostos (estimado 6%)**       |          variável |      variável | Incide sobre o lucro mensal               |
 | **Total (sem funcionário)**      |    **590,00/mês** |  **5.310,00** | Custo operacional mínimo                  |
 | **Total (com funcionário)**      |  **3.590,00/mês** | **32.310,00** | Custo operacional ampliado                |
 <img src="docs/img/Capital_Giro.png"/>
