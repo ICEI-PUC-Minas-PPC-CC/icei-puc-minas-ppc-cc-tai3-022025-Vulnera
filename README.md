@@ -260,8 +260,7 @@ Perspectiva do Aprendizado e Crescimento:
 <img src="docs/img/Fluxo_de_caixa.png"/>
 
 ### 8️⃣ Valuation
-- Método utilizado:  
-- Valor estimado:  
+[Slides](docs/valuation_Vulnera.pdf)
 
 ### 9️⃣ Segurança Cibernética
 - Riscos identificados:  
@@ -290,9 +289,9 @@ Perspectiva do Aprendizado e Crescimento:
 | Custos e Tributos                      | 10/09/2025 | Planilha com custos fixos, variáveis e tributos                   | Concluído |
 | Plano de Negócios                      | 17/09/2025 | levantamento completo dos investimentos e precificações           | Concluido |
 | Análise SWOT                           | 24/09/2025 | Análise de ambientes SWOT                                         | Concluido |
-| Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | —      |
-| Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                                | —      |
-| Valuation      | 12/11/2025 | Valuation | —      |
+| Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | Concluido |
+| Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                                | Concluido |
+| Valuation      | 12/11/2025 | Valuation | Concluido |
 
 ---
 
