@@ -262,8 +262,34 @@ Perspectiva do Aprendizado e Crescimento:
 [Slides](docs/valuation_Vulnera.pdf)
 
 ### 9️⃣ Segurança Cibernética
-- Riscos identificados:  
-- Medidas de segurança:  
+
+#Riscos identificados:
+
+Acesso não autorizado às contas de usuários da plataforma Vulnera.
+
+Vazamento ou manipulação de dados sensíveis, como resultados de avaliações, relatórios diagnósticos e rankings.
+
+Exploração de vulnerabilidades comuns em aplicações web, como SQL Injection, Cross-Site Scripting (XSS) e ataques de força bruta.
+
+Atividades anômalas no sistema, como tentativas repetidas de login ou acessos fora do padrão esperado, caracterizando possíveis Indicadores de Comprometimento (IoC).
+
+#Medidas de segurança:
+
+Implementação de autenticação segura, com senhas criptografadas e políticas de controle de acesso por perfil de usuário.
+
+Registro, análise e monitoramento contínuo de logs de acesso e eventos do sistema, permitindo a identificação de Indicadores de Comprometimento (IoC).
+
+Validação e sanitização das entradas de dados para mitigação de ataques a aplicações web.
+
+Adoção de boas práticas do Ciclo de Desenvolvimento Seguro (Secure Development Lifecycle – SDL), integrando segurança desde o planejamento até a operação da plataforma.
+
+Uso de backups periódicos para garantir a integridade e a disponibilidade das informações.
+
+#Principais referências:
+
+MITRE ATT&CK — Base de conhecimento amplamente utilizada para identificação de táticas, técnicas e procedimentos de ataques cibernéticos, auxiliando na detecção de comportamentos anômalos e IoC.
+
+NIST (SP 800-150 / SP 800-61) — Diretrizes para compartilhamento de informações sobre ameaças e resposta a incidentes, fornecendo boas práticas para monitoramento, detecção e mitigação de incidentes de segurança.
 
 ---
 
