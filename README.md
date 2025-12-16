@@ -122,7 +122,6 @@ Impostos: R$1.200,00 (6% do faturamento bruto)
 Usuário consegue determinar as brechas no seu conhecimento sobre cibersegurança, direcionando o foco dos estudos, economizando tempo de planejamento e concretizando o conhecimento com certificados.
 
 #### Capacidade de pagamento:
-Estimativa entre R$30,00 para planos mais básicos até R$200,00 para pacotes completos.
 
 - Teste Diagnóstico Geral Básico – R$ 14,90
 
