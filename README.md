@@ -263,7 +263,7 @@ Perspectiva do Aprendizado e Crescimento:
 
 ### 9️⃣ Segurança Cibernética
 
-#Riscos identificados:
+# Riscos identificados:
 
 Acesso não autorizado às contas de usuários da plataforma Vulnera.
 
@@ -273,7 +273,7 @@ Exploração de vulnerabilidades comuns em aplicações web, como SQL Injection,
 
 Atividades anômalas no sistema, como tentativas repetidas de login ou acessos fora do padrão esperado, caracterizando possíveis Indicadores de Comprometimento (IoC).
 
-#Medidas de segurança:
+# Medidas de segurança:
 
 Implementação de autenticação segura, com senhas criptografadas e políticas de controle de acesso por perfil de usuário.
 
@@ -285,7 +285,7 @@ Adoção de boas práticas do Ciclo de Desenvolvimento Seguro (Secure Developmen
 
 Uso de backups periódicos para garantir a integridade e a disponibilidade das informações.
 
-#Principais referências:
+# Principais referências:
 
 MITRE ATT&CK — Base de conhecimento amplamente utilizada para identificação de táticas, técnicas e procedimentos de ataques cibernéticos, auxiliando na detecção de comportamentos anômalos e IoC.
 
