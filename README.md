@@ -157,8 +157,8 @@ Entrega: acesso aos cinco testes individuais, relatório consolidado com mapa de
 
 #### Concorrência:
 - Hackers do bem - Não há cobrança, porém é considerado limitado em suas funcionalidades.
-- Guardey - Focado mais em treinamentos, faz diagnósticos porém não possui conteúdo em português do Brasil
-- Phished - Também focado em treinamento, porém conteúdo em inglês
+- Guardey - Focado mais em treinamentos para empresas. Não possui conteúdo adaptado para o Brasil.
+- Phished - Também focado em treinamento e phishing para empresas. Não possui conteúdo adaptado para o Brasil.
 
 #### Modelo de Precificação:
 Diferenciação por funcionalidades.
